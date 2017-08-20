@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="eg.edu.alexu.csd.oop.paint.Circle" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Circle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="280" x="3305" y="1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="eg.edu.alexu.csd.oop.paint.JSONReader" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/JSONReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="189" x="461" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="eg.edu.alexu.csd.oop.paint.XMLReader" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/XMLReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="214" x="690" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="eg.edu.alexu.csd.oop.paint.JARFilter" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/JARFilter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="186" x="944" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="eg.edu.alexu.csd.oop.paint.Paint" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Paint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="952" width="371" x="2603" y="-754"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="eg.edu.alexu.csd.oop.paint.Plugin" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Plugin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="335" x="1170" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="eg.edu.alexu.csd.oop.paint.Polygon" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Polygon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="321" width="280" x="2985" y="1105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="eg.edu.alexu.csd.oop.paint.Paint.Menu" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Paint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="1545" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="eg.edu.alexu.csd.oop.paint.JSONWriter" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/JSONWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="210" x="1808" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="eg.edu.alexu.csd.oop.paint.Oval" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Oval.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="448" width="280" x="3305" y="1105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="eg.edu.alexu.csd.oop.paint.Rectangle" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Rectangle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="466" width="280" x="3625" y="1105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="eg.edu.alexu.csd.oop.paint.Square" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Square.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="280" x="3625" y="1611"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="eg.edu.alexu.csd.oop.paint.Paint.PlugIN" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Paint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="2058" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="eg.edu.alexu.csd.oop.paint.XMLWriter" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/XMLWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="242" x="2321" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="eg.edu.alexu.csd.oop.paint.ExtensionFilter" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/ExtensionFilter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="201" x="2603" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="eg.edu.alexu.csd.oop.paint.Paint.onClick" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Paint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="2844" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="eg.edu.alexu.csd.oop.paint.Paint.GetCoor" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Paint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="224" x="3532" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="eg.edu.alexu.csd.oop.paint.Shape" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Shape.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="573" width="281" x="3471" y="492"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="eg.edu.alexu.csd.oop.paint.PaintArea" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/PaintArea.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="343" x="3107" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="eg.edu.alexu.csd.oop.paint.Line" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Line.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="358" width="280" x="3945" y="1105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="eg.edu.alexu.csd.oop.paint.ResourceLoader" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/ResourceLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="166" x="3796" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="eg.edu.alexu.csd.oop.paint.Paint.Option" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Paint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="4002" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="eg.edu.alexu.csd.oop.paint.Main" project="oop" 
+    file="/oop/src/eg/edu/alexu/csd/oop/paint/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="157" x="2603" y="-900"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="24">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="25" name="jarExt"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="27">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <nesting id="28">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <association id="29">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="30" name="shapes"/>      
+      <multiplicity id="31" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="33" name="extFilter"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="35">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <association id="36">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="37" name="rl"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="40" name="p"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <nesting id="43">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="46">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="47" name="jw"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="50" name="tempShape"/>      
+      <multiplicity id="51" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <bendpoint x="3501" y="238"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="53" name="tempShape"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="56">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="57" name="xw"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="60" name="xr"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="63" name="plugin"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="66">    
+    <bendpoint x="3480" y="238"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="67" name="shapes"/>      
+      <multiplicity id="68" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="69">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="70">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="71" name="jr"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="73">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <association id="74">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="75" name="paintArea"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
