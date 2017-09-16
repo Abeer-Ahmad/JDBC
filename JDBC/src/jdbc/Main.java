@@ -23,15 +23,16 @@ public class Main {
 	  
 
 	public Main() {
-		loader = new driverLoader();
+		/*loader = new driverLoader();
 		File driverJar = new File("C:/Users/user/git/oop/oop/jars/JDriver.jar");
 		loader.loadDriver(driverJar);
-		driver = loader.instansiateDriver();
+		driver = loader.instansiateDriver();*/
+		driver = new JDriver();
 		readConfig();
 	}
 
 	private void readConfig() {
-		File configFile = new File("CLIConfiguration.properties");
+		File configFile = new File("resources"+ File.separator + "CLIConfiguration.properties");
 		try {
 			FileReader reader = new FileReader(configFile);
 			Properties prop = new Properties();
@@ -69,8 +70,7 @@ public class Main {
 
 	public static void main(String[] args) throws SQLException {
 		Main CLI = new Main();
-		Scanner scan = new Scanner(System.in);
-		// JDriver driver = new JDriver();
+		Scanner scan = new Scanner(System.in);	
 		Properties info = new Properties();
 		String sqlStat;
 		boolean exit = false;
